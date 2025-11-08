@@ -272,3 +272,149 @@ Nie złe, ale mniej krytyczne na start MVP:
 
 Jeśli chcesz, mogę zrobić **mapę priorytetów (Impact–Effort)** dla tych pomysłów w formie graficznej – wtedy zobaczysz, które rozwiązania dają największy efekt przy najmniejszym nakładzie.
 👉 Czy chcesz, żebym ją przygotował?
+
+Świetne pytanie 🔥 — jesteście już bardzo blisko najciekawszego momentu w całym procesie **Design Thinking**, czyli **prototypowania**!
+
+Zróbmy to krok po kroku 👇
+
+---
+
+## 🧩 1. Co to jest prototypowanie w Design Thinking?
+
+**Prototypowanie** to etap, w którym:
+
+- przekuwasz pomysły z fazy ideacji w coś **namacalnego**,
+- testujesz rozwiązanie **szybko i tanio**,
+- zbierasz **feedback od użytkowników**, zanim zainwestujesz czas i pieniądze w budowę gotowego produktu.
+
+👉 Cel nie jest stworzenie perfekcyjnego produktu, tylko **nauka poprzez działanie**.
+Prototyp ma pomóc odpowiedzieć na pytanie:
+
+> „Czy nasz pomysł rzeczywiście rozwiązuje problem użytkownika?”
+
+---
+
+## 🧱 2. Formy prototypu
+
+Prototyp może mieć **różne poziomy wierności** („fidelity”):
+
+| Poziom            | Przykład                                          | Cel                                              |
+| ----------------- | ------------------------------------------------- | ------------------------------------------------ |
+| **Low fidelity**  | Szkice na papierze, makiety, storyboard           | szybka walidacja pomysłu i przepływu użytkownika |
+| **Mid fidelity**  | Interaktywna makieta (np. Figma, Whimsical, Miro) | testowanie logiki, UX, funkcji                   |
+| **High fidelity** | Działająca wersja testowa aplikacji (MVP)         | testowanie realnego zachowania i danych          |
+
+---
+
+## 🧭 3. Jak ja bym to rozwiązał (dla waszego projektu)
+
+### 🎯 Problem:
+
+> Nowy student (lokalny lub zagraniczny) ma trudności z rozpoczęciem życia w nowym mieście — brak informacji, chaos, brak kontaktów i wsparcia.
+
+### 💡 Pomysł wybrany do prototypu:
+
+**„Start w Mieście” – aplikacja krok po kroku dla nowego studenta.**
+
+---
+
+## 📱 4. Przykład prototypu – „Start w Mieście”
+
+### 🖼️ **Struktura aplikacji (prototyp lo-fi / średni poziom)**
+
+**Ekran 1: Ekran powitalny / onboarding**
+
+- Logo uczelni lub miasta
+- Wybór języka (PL / EN / inne)
+- Krótkie pytanie: „Czy jesteś studentem z Polski czy z zagranicy?”
+
+---
+
+**Ekran 2: Moje pierwsze kroki**
+
+- Checklista z najważniejszymi zadaniami (dynamiczna):
+
+  - ✅ Znajdź mieszkanie
+  - ✅ Zrób legitymację studencką
+  - 🔲 Załóż konto bankowe
+  - 🔲 Kup kartę miejską
+  - 🔲 Poznaj swojego mentora
+
+- Każdy element otwiera **mini-przewodnik krok po kroku** (z mapą, linkami i kontaktami).
+
+---
+
+**Ekran 3: Mapa Studencka**
+
+- Interaktywna mapa z kategoriami:
+
+  - 🏠 Zakwaterowanie
+  - 🍕 Jedzenie
+  - 🚌 Transport
+  - ☕ Miejsca spotkań
+  - 💬 Punkty pomocy uczelnianej
+
+- Zawiera tylko **zweryfikowane** miejsca (np. oznaczone przez uczelnię lub społeczność).
+
+---
+
+**Ekran 4: Znajdź kolegę / mentora**
+
+- Prosty formularz: wybierz kierunek, rok, język
+- Sugestie: „Poznaj Kasię z pierwszego roku informatyki”
+- Czat lub wiadomość powitalna („Hej! Szukasz współlokatora?”)
+
+---
+
+**Ekran 5: Centrum pomocy**
+
+- Sekcja FAQ: „Jak złożyć dokumenty?”, „Jak dostać się do dziekanatu?”
+- Linki do oficjalnych stron uczelni
+- Numery alarmowe i kontakt do uczelnianego biura ds. studentów zagranicznych.
+
+---
+
+### 🎨 Narzędzia do zrobienia prototypu:
+
+- 🖊️ **Whimsical / Figma / Miro** – do makiety interaktywnej (klikanej)
+- 📱 **MarvelApp / ProtoPie / Figma prototyping** – do symulacji na telefonie
+- 👩‍🎓 **Testy z użytkownikami:**
+  Zaproś 3–5 nowych studentów i zapytaj:
+
+  - Czy wiesz, gdzie kliknąć, żeby znaleźć mieszkanie?
+  - Czy aplikacja daje ci poczucie bezpieczeństwa?
+  - Czego brakuje na początku?
+
+---
+
+## 🧪 5. Co testować w tym prototypie?
+
+| Pytanie testowe                                     | Dlaczego to ważne                  |
+| --------------------------------------------------- | ---------------------------------- |
+| Czy użytkownik rozumie, od czego zacząć?            | sprawdza intuicyjność UX           |
+| Czy wie, gdzie znaleźć mieszkanie lub pomoc?        | testuje wartość funkcjonalną       |
+| Czy aplikacja redukuje stres i poczucie zagubienia? | waliduje efekt emocjonalny         |
+| Czy proces jest jasny dla studentów z zagranicy?    | sprawdza uniwersalność rozwiązania |
+
+---
+
+## 🔁 6. Kolejny etap po testach
+
+Po testach prototypu:
+
+1. Zbierz feedback (co działa, co nie działa)
+2. Zidentyfikuj 2–3 największe poprawki
+3. Stwórz wersję MVP aplikacji (może być mobilna lub webowa)
+
+---
+
+### 🧠 TL;DR
+
+> Prototyp = szybka, uproszczona wersja waszej aplikacji do testowania pomysłu.
+> Dla was: zróbcie **interaktywną checklistę + mapę studencką + sekcję mentoringu** w Figma lub Whimsical.
+> To wystarczy, żeby **zobaczyć, jak użytkownicy reagują** i zebrać dane do dalszego rozwoju.
+
+---
+
+Chcesz, żebym pomógł wam **rozrysować taki prototyp** (np. w formie szkicu ekranu / struktury aplikacji)?
+Mogę go wygenerować graficznie, żebyście mieli gotowy materiał do warsztatów 💡
