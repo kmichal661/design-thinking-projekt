@@ -31,6 +31,10 @@ Nowi studenci (zarówno lokalni, jak i zagraniczni) mają trudności z szybkim i
 
 ---
 
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+
 ## Fishbone Diagram
 
 **Główny problem (head of fish):**
